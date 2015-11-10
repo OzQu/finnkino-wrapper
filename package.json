@@ -1,5 +1,5 @@
 {
-  "name": "finnkino",
+  "name": "finnkino-wrapper",
   "version": "0.0.1",
   "description": "Ugly wrapper for finnkino xml API",
   "main": "finnkino.js",
@@ -15,5 +15,14 @@
     "request-promise": "^1.0.2",
     "underscore": "^1.8.3",
     "xml2js": "^0.4.15"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OzQu/finnkino-wrapper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/OzQu/finnkino-wrapper/issues"
+  },
+  "homepage": "https://github.com/OzQu/finnkino-wrapper#readme"
 }
