@@ -9,7 +9,7 @@
   "keywords": [
     "finnkino"
   ],
-  "author": "Oskari Ruutiainen",
+  "author": "Oskari Ruutiainen <ozquli@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "request-promise": "^1.0.2",
