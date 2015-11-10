@@ -1,0 +1,19 @@
+{
+  "name": "finnkino",
+  "version": "0.0.1",
+  "description": "Ugly wrapper for finnkino xml API",
+  "main": "finnkino.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "finnkino"
+  ],
+  "author": "Oskari Ruutiainen",
+  "license": "MIT",
+  "dependencies": {
+    "request-promise": "^1.0.2",
+    "underscore": "^1.8.3",
+    "xml2js": "^0.4.15"
+  }
+}
