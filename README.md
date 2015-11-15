@@ -259,9 +259,13 @@ Xml above is parsed to following
        EventLargeImagePortrait: 'http://media.finnkino.fi/1012/Event_10605/portrait_small/LouderThanBombs_1080.jpg',
        EventSmallImageLandscape: 'http://media.finnkino.fi/1012/Event_10605/landscape_small/LouderThanBombs_444f.jpg',
        EventLargeImageLandscape: 'http://media.finnkino.fi/1012/Event_10605/landscape_large/LouderThanBombs_670f.jpg' },
-    ContentDescriptors: { ContentDescriptor: [Object] } }
+    ContentDescriptors: { ContentDescriptor: [ 
+        { Name: 'Violence',
+          ImageURL: 'https://media.finnkino.fi/images/content_Violence.png' },
+        { Name: 'Disturbing',
+          ImageURL: 'https://media.finnkino.fi/images/content_Disturbing.png' } ] }
+  }
 ]
-
 ```
 
 ## Future
