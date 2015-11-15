@@ -265,4 +265,4 @@ Xml above is parsed to following
 ```
 
 ## Future
-If and when I can find or create xml schema for finnkino API, xml-parser can do all the 'heavy' lifting which is not done almost manually and not necessary even correctly. At this point this more or less for my own usage and considers just my needs.
+If and when I can find or create xml schema for finnkino API, xml-parser can do all the 'heavy' lifting which is now done almost manually and not necessary even correctly. At this point this more or less for my own usage and considers just my needs.
